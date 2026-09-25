@@ -1,7 +1,7 @@
 import React from 'react'
-import roy from "./assets/roy.jpg"
-import card1 from "./assets/saha.jpg"
-import card2 from "./assets/roy.jpg"
+import roy from "./assets/Roy.jpg"
+import card1 from "./assets/Saha.jpg"
+import card2 from "./assets/Roy.jpg"
 import card3 from "./assets/kidbook.jpg"
 
 
